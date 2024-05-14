@@ -107,6 +107,8 @@ $ docker push jluisalvarez/hm-flask:2024
 
 ```
 
+También, puedes crear un repositorio en Artifact Registry, etiquetar la imagen de forma adecuada y subirla a ese registro.
+
 # Despliega en GCP Cloud Run
 
 En la consola web de GCP, selecciona Cloud Run en la sección Serveless.
